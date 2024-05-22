@@ -1,6 +1,6 @@
 # Exemplos de Data Mining com Regressão e Classificação
 
-Este repositório contém exemplos de técnicas de Data Mining implementadas em Python no Google Colab, utilizando regressão e classificação para análise de dados. Cada exemplo demonstra a aplicação de algoritmos de machine learning em tarefas específicas de previsão e classificação.
+Este repositório contém exemplos de técnicas de Data Mining implementadas em Python no Google Colab, utilizando regressão e classificação para análise de dados.
 
 ## Classificação
 
